@@ -1,7 +1,6 @@
 # Welcome to XpensesTracking App, an app dedicated to track daily expenses. 
 This project was developed using a stack of cutting-edge technologies, including HTML/CSS, React.js, Firebase. The goal was to create a user-friendly and efficient app for tracking a user daily expenses. You can check out the app at https://myxpenses-10696.web.app/login
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
